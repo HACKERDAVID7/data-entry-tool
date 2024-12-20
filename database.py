@@ -1,6 +1,6 @@
 import mysql.connector
 
-pas = "Sumit@#1234"
+pas = ""
 
 # Connection settings
 # DB_CONFIG = {
